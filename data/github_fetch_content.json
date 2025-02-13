@@ -1,0 +1,82 @@
+[
+    {
+        "name": ".gitignore",
+        "path": ".gitignore",
+        "sha": "9f21b549ce75bf40f794866497ff6b637600d0bf",
+        "size": 7,
+        "url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/.gitignore?ref=main",
+        "html_url": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/.gitignore",
+        "git_url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/9f21b549ce75bf40f794866497ff6b637600d0bf",
+        "download_url": "https://raw.githubusercontent.com/Liu-Shihao/deepseek-demo/main/.gitignore",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/.gitignore?ref=main",
+            "git": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/9f21b549ce75bf40f794866497ff6b637600d0bf",
+            "html": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/.gitignore"
+        }
+    },
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "0ace651d77ae3482a1d0c2b8a26489ccc11356c2",
+        "size": 61,
+        "url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/README.md?ref=main",
+        "html_url": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/README.md",
+        "git_url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/0ace651d77ae3482a1d0c2b8a26489ccc11356c2",
+        "download_url": "https://raw.githubusercontent.com/Liu-Shihao/deepseek-demo/main/README.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/README.md?ref=main",
+            "git": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/0ace651d77ae3482a1d0c2b8a26489ccc11356c2",
+            "html": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/README.md"
+        }
+    },
+    {
+        "name": "app.py",
+        "path": "app.py",
+        "sha": "08ddb9bcbccf7dd2a8e2746214ec92c294000074",
+        "size": 1868,
+        "url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/app.py?ref=main",
+        "html_url": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/app.py",
+        "git_url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/08ddb9bcbccf7dd2a8e2746214ec92c294000074",
+        "download_url": "https://raw.githubusercontent.com/Liu-Shihao/deepseek-demo/main/app.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/app.py?ref=main",
+            "git": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/08ddb9bcbccf7dd2a8e2746214ec92c294000074",
+            "html": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/app.py"
+        }
+    },
+    {
+        "name": "requirements.txt",
+        "path": "requirements.txt",
+        "sha": "61266f76b5a3a071b5f3a25cf444ffd0744942dd",
+        "size": 45,
+        "url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/requirements.txt?ref=main",
+        "html_url": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/requirements.txt",
+        "git_url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/61266f76b5a3a071b5f3a25cf444ffd0744942dd",
+        "download_url": "https://raw.githubusercontent.com/Liu-Shihao/deepseek-demo/main/requirements.txt",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/requirements.txt?ref=main",
+            "git": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/blobs/61266f76b5a3a071b5f3a25cf444ffd0744942dd",
+            "html": "https://github.com/Liu-Shihao/deepseek-demo/blob/main/requirements.txt"
+        }
+    },
+    {
+        "name": "src",
+        "path": "src",
+        "sha": "761f635162ee79d80992fd9bb2f19ed8ceab554d",
+        "size": 0,
+        "url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/src?ref=main",
+        "html_url": "https://github.com/Liu-Shihao/deepseek-demo/tree/main/src",
+        "git_url": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/trees/761f635162ee79d80992fd9bb2f19ed8ceab554d",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/contents/src?ref=main",
+            "git": "https://api.github.com/repos/Liu-Shihao/deepseek-demo/git/trees/761f635162ee79d80992fd9bb2f19ed8ceab554d",
+            "html": "https://github.com/Liu-Shihao/deepseek-demo/tree/main/src"
+        }
+    }
+]
